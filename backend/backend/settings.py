@@ -10,7 +10,9 @@ SECRET_KEY = (
 
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'inklar1ty.hopto.org',
+]
 
 
 # Application definition
